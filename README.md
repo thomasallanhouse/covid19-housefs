@@ -1,7 +1,21 @@
-# covid19-housefs
+# COVID-19 Household Final Size Analysis
 
 Repository for the publicaion:
 
-T. House, H. Riley, L. Pellis, K. B. Pouwels, S. Bacon, A. Eidukas, K. Jahanshahi, R. M. Eggo, A. S. Walker, "Inferring Risks of Coronavirus Transmission from Community Household Data." Statistical Methods in Medical Research (2021). [`arXiv:2104.04605 <https://arxiv.org/abs/2104.04605>`__\ ]
+T. House, H. Riley, L. Pellis, K. B. Pouwels, S. Bacon, A. Eidukas, K. Jahanshahi, R. M. Eggo, A. S. Walker, "Inferring Risks of Coronavirus Transmission from Community Household Data." Statistical Methods in Medical Research (2021). https://arxiv.org/abs/2104.04605
 
-Data 
+Data is available via the Office for National Statistics Secure Research Service:
+https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/approvedresearcherscheme
+
+Code in household_analysis.ipynb is applied to data publicly available at:
+Lavezzo, E., Franchin, E., Ciavarella, C. et al. Suppression of a SARS-CoV-2 outbreak in the Italian municipality of Vo. Nature 584, 425–429 (2020). https://doi.org/10.1038/s41586-020-2488-1
+
+# Ongoing analysis
+
+Addition of new data to the analysis is shown below:
+
+Tranche 7 (16.07.21 to 31.08.21)
+https://github.com/thomasallanhouse/covid19-housefs/blob/main/tranche7.pdf
+
+Tranche 8 (01.08.21 to 14.10.21)
+https://github.com/thomasallanhouse/covid19-housefs/blob/main/tranche8.pdf
