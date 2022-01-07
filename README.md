@@ -2,7 +2,7 @@
 
 Repository for the publicaion:
 
-T. House, H. Riley, L. Pellis, K. B. Pouwels, S. Bacon, A. Eidukas, K. Jahanshahi, R. M. Eggo, A. S. Walker, "Inferring Risks of Coronavirus Transmission from Community Household Data." Statistical Methods in Medical Research (2021). https://arxiv.org/abs/2104.04605
+T. House, H. Riley, L. Pellis, K. B. Pouwels, S. Bacon, A. Eidukas, K. Jahanshahi, R. M. Eggo, A. S. Walker, "Inferring Risks of Coronavirus Transmission from Community Household Data." Statistical Methods in Medical Research (2022). https://arxiv.org/abs/2104.04605
 
 Data is available via the Office for National Statistics Secure Research Service:
 https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/approvedresearcherscheme
