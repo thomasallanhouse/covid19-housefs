@@ -19,3 +19,6 @@ https://github.com/thomasallanhouse/covid19-housefs/blob/main/tranche7.pdf
 
 Tranche 8 (01.08.21 to 14.10.21)
 https://github.com/thomasallanhouse/covid19-housefs/blob/main/tranche8.pdf
+
+Tranche 9 (15.10.20 to 03.12.20)
+https://github.com/thomasallanhouse/covid19-housefs/blob/main/tranche9.pdf
