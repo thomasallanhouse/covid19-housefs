@@ -25,3 +25,6 @@ https://github.com/thomasallanhouse/covid19-housefs/blob/main/tranche9.pdf
 
 Tranche 10 (04.12.21 to 06.01.22)
 https://github.com/thomasallanhouse/covid19-housefs/blob/main/tranche10.pdf
+
+Tranche 11 (07.01.22 to 06.02.22)
+https://github.com/thomasallanhouse/covid19-housefs/blob/main/tranche11.pdf
